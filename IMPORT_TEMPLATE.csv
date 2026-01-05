@@ -1,0 +1,5 @@
+nombre,sku,costo,venta,cantidad,plusTen
+Producto A,SKU001,100,150,10,false
+Producto B,SKU002,200,280,5,true
+Producto C,,50,75,20,false
+Producto D,SKU004,300,450,0,true

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Fondo verde oscuro (color similar al original) -->
+  <rect width="1024" height="1024" fill="#1F6B47"/>
+  
+  <!-- Símbolo N estilizado y moderno -->
+  <g transform="translate(512, 380)">
+    <!-- Elemento circular superior izquierda -->
+    <circle cx="-160" cy="-120" r="90" fill="white"/>
+    
+    <!-- Elemento vertical izquierdo -->
+    <rect x="-190" y="-80" width="60" height="280" fill="white" rx="30"/>
+    
+    <!-- Línea diagonal central -->
+    <line x1="-120" y1="-40" x2="120" y2="200" stroke="white" stroke-width="65" stroke-linecap="round"/>
+    
+    <!-- Elemento circular inferior derecha -->
+    <circle cx="160" cy="120" r="90" fill="white"/>
+    
+    <!-- Elemento vertical derecho -->
+    <rect x="130" y="-80" width="60" height="280" fill="white" rx="30"/>
+    
+    <!-- Línea decorativa -->
+    <path d="M -200 -180 L 200 -180" stroke="white" stroke-width="40" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Texto del nombre de la empresa -->
+  <text x="512" y="680" font-family="Arial, Helvetica, sans-serif" font-size="160" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="6">
+    Grupo
+  </text>
+  
+  <text x="512" y="880" font-family="Arial, Helvetica, sans-serif" font-size="200" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="8">
+    NOVA
+  </text>
+  
+  <text x="512" y="940" font-family="Arial, Helvetica, sans-serif" font-size="90" font-weight="500" fill="white" text-anchor="middle" letter-spacing="6">
+    S.R.L.
+  </text>
+</svg>
