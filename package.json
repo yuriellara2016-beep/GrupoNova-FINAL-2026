@@ -11,8 +11,6 @@
     "web": "npx expo start --web"
   },
   "dependencies": {
-    ");\n          resolve(null);\n        }\n      };\n      input.click();\n    });\n  }\n\n  ": "latest",
-    ");\n          resolve(null);\n        }\n      };\n      input.click();\n    });\n  }\n\n  try {\n    const picked = await File.pickFileAsync();\n\n    const name = picked.name || undefined;\n    const extFromName = (name || ": "latest",
     "@auth0/auth0-react": "2.0.1",
     "@clerk/clerk-react": "5.0.0",
     "@expo/vector-icons": "^15.0.3",
